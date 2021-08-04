@@ -3,7 +3,8 @@
 Version 0.1
 
 Coming soon:
--Timer to collect stars, otherwise game is over
--Game Over text on screen
--Highest score display so player can track to their personal best
--Powerups that give the player unique abilities
+
+-Timer to collect stars, otherwise game is over<br>
+-Game Over text on screen<br>
+-Highest score display so player can track to their personal best<br>
+-Powerups that give the player unique abilities<br>
